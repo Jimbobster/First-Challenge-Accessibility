@@ -1,4 +1,4 @@
-# First-Challenge-Accessibility
+# Horiseon-CSS-Refactor
 ## Description
 I built this project to update the accessibility features of the website, enabling customers to use screen readers, braille keyboards and video captions.
 When a user clicks on an image or icon, then they will see alternative text to describe each image and icon.
@@ -12,4 +12,4 @@ https://jimbobster.github.io/First-Challenge-Accessibility/
 ### Credits
 N/A
 ### License
-Please refer to the license in the repository
+MIT License. Please refer to the license in the repository for more information.
