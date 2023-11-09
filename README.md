@@ -9,7 +9,7 @@ N/A
 ### Mock-up
 ![screenshot of horizon website](assets/images/Horiseon-Image.jpg)
 #### Website URL
-https://jimbobster.github.io/First-Challenge-Accessibility/
+(https://jimbobster.github.io/Horiseon-CSS-Refactor/)
 ### Credits
 N/A
 ### License
